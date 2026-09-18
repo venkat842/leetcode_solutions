@@ -15,4 +15,12 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat842/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/venkat842/leetcode_solutions/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/venkat842/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
