@@ -23,4 +23,8 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/venkat842/leetcode_solutions/tree/master/0367-valid-perfect-square) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/venkat842/leetcode_solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
