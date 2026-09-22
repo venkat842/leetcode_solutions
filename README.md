@@ -22,6 +22,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/venkat842/leetcode_solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/venkat842/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [1154-day-of-the-year](https://github.com/venkat842/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/venkat842/leetcode_solutions/tree/master/1185-day-of-the-week) |
@@ -52,5 +53,10 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/venkat842/leetcode_solutions/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/venkat842/leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
