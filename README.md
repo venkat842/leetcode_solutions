@@ -17,6 +17,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat842/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/venkat842/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | ------- |
 | [0217-contains-duplicate](https://github.com/venkat842/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
