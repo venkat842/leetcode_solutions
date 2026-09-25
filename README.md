@@ -13,6 +13,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1084-sales-analysis-iii](https://github.com/venkat842/leetcode_solutions/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/venkat842/leetcode_solutions/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/venkat842/leetcode_solutions/tree/master/1179-reformat-department-table) |
+| [1251-average-selling-price](https://github.com/venkat842/leetcode_solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/venkat842/leetcode_solutions/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/venkat842/leetcode_solutions/tree/master/1341-movie-rating) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/venkat842/leetcode_solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
