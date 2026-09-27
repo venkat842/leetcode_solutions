@@ -20,6 +20,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1341-movie-rating](https://github.com/venkat842/leetcode_solutions/tree/master/1341-movie-rating) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/venkat842/leetcode_solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/venkat842/leetcode_solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1667-fix-names-in-a-table](https://github.com/venkat842/leetcode_solutions/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/venkat842/leetcode_solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/venkat842/leetcode_solutions/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/venkat842/leetcode_solutions/tree/master/1729-find-followers-count) |
