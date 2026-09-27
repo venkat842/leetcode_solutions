@@ -67,6 +67,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | ------- |
 | [0058-length-of-last-word](https://github.com/venkat842/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/venkat842/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/venkat842/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1154-day-of-the-year](https://github.com/venkat842/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/venkat842/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
