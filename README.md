@@ -22,6 +22,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1633-percentage-of-users-attended-a-contest](https://github.com/venkat842/leetcode_solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/venkat842/leetcode_solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/venkat842/leetcode_solutions/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/venkat842/leetcode_solutions/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/venkat842/leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
