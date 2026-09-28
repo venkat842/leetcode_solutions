@@ -39,6 +39,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/venkat842/leetcode_solutions/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/venkat842/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/venkat842/leetcode_solutions/tree/master/0561-array-partition) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -124,6 +125,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/venkat842/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/venkat842/leetcode_solutions/tree/master/0561-array-partition) |
 ## Counting
 |  |
@@ -140,4 +142,8 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/venkat842/leetcode_solutions/tree/master/0561-array-partition) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/venkat842/leetcode_solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
