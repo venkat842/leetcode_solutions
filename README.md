@@ -38,6 +38,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0349-intersection-of-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/venkat842/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -68,6 +69,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0058-length-of-last-word](https://github.com/venkat842/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/venkat842/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/venkat842/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/venkat842/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1154-day-of-the-year](https://github.com/venkat842/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/venkat842/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
@@ -108,6 +110,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0349-intersection-of-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/venkat842/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/venkat842/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
