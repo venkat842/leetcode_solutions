@@ -7,6 +7,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/venkat842/leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/venkat842/leetcode_solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/venkat842/leetcode_solutions/tree/master/0607-sales-person) |
 | [1045-customers-who-bought-all-products](https://github.com/venkat842/leetcode_solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/venkat842/leetcode_solutions/tree/master/1070-product-sales-analysis-iii) |
