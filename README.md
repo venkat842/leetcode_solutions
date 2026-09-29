@@ -54,6 +54,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/venkat842/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/venkat842/leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/venkat842/leetcode_solutions/tree/master/0367-valid-perfect-square) |
