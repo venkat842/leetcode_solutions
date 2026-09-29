@@ -46,6 +46,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3731-find-missing-elements](https://github.com/venkat842/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1185-day-of-the-week](https://github.com/venkat842/leetcode_solutions/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/venkat842/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [2119-a-number-after-a-double-reversal](https://github.com/venkat842/leetcode_solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3731-find-missing-elements](https://github.com/venkat842/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -140,6 +143,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0884-uncommon-words-from-two-sentences](https://github.com/venkat842/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Greedy
 |  |
