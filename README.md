@@ -34,6 +34,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/venkat842/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat842/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/venkat842/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/venkat842/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/venkat842/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/venkat842/leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/venkat842/leetcode_solutions/tree/master/0367-valid-perfect-square) |
@@ -102,6 +104,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/venkat842/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
