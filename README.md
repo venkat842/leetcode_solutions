@@ -31,6 +31,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1741-find-total-time-spent-by-each-employee](https://github.com/venkat842/leetcode_solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/venkat842/leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/venkat842/leetcode_solutions/tree/master/1795-rearrange-products-table) |
+| [1890-the-latest-login-in-2020](https://github.com/venkat842/leetcode_solutions/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/venkat842/leetcode_solutions/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/venkat842/leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
