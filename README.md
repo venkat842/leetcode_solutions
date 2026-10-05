@@ -69,6 +69,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0258-add-digits](https://github.com/venkat842/leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/venkat842/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/venkat842/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/venkat842/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [1154-day-of-the-year](https://github.com/venkat842/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/venkat842/leetcode_solutions/tree/master/1185-day-of-the-week) |
@@ -110,6 +111,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | ------- |
 | [0231-power-of-two](https://github.com/venkat842/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/venkat842/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -194,4 +196,5 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | ------- |
 | [0231-power-of-two](https://github.com/venkat842/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/venkat842/leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/venkat842/leetcode_solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
