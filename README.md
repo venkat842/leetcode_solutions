@@ -60,6 +60,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2215-find-the-difference-of-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3731-find-missing-elements](https://github.com/venkat842/leetcode_solutions/tree/master/3731-find-missing-elements) |
+| [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3110-score-of-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/3110-score-of-a-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | ------- |
 | [0258-add-digits](https://github.com/venkat842/leetcode_solutions/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
 ## Number Theory
 |  |
 | ------- |
