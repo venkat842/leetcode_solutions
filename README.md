@@ -19,6 +19,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1211-queries-quality-and-percentage](https://github.com/venkat842/leetcode_solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/venkat842/leetcode_solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/venkat842/leetcode_solutions/tree/master/1280-students-and-examinations) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/venkat842/leetcode_solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/venkat842/leetcode_solutions/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/venkat842/leetcode_solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/venkat842/leetcode_solutions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
