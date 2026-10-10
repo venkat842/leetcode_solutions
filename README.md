@@ -51,6 +51,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0506-relative-ranks](https://github.com/venkat842/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/venkat842/leetcode_solutions/tree/master/0561-array-partition) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [0922-sort-array-by-parity-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/venkat842/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/venkat842/leetcode_solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -115,6 +116,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0349-intersection-of-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [0922-sort-array-by-parity-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/venkat842/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -166,6 +168,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/venkat842/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/venkat842/leetcode_solutions/tree/master/0561-array-partition) |
+| [0922-sort-array-by-parity-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/venkat842/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/venkat842/leetcode_solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
