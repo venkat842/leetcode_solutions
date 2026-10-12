@@ -56,6 +56,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0977-squares-of-a-sorted-array](https://github.com/venkat842/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/venkat842/leetcode_solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/venkat842/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/venkat842/leetcode_solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1748-sum-of-unique-elements](https://github.com/venkat842/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -226,4 +227,8 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/venkat842/leetcode_solutions/tree/master/0191-number-of-1-bits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/venkat842/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
