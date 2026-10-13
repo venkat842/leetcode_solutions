@@ -40,6 +40,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/venkat842/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat842/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/venkat842/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
@@ -135,10 +136,12 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/venkat842/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/venkat842/leetcode_solutions/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
