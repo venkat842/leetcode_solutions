@@ -43,6 +43,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0048-rotate-image](https://github.com/venkat842/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat842/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/venkat842/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/venkat842/leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -132,6 +133,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/venkat842/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/venkat842/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
