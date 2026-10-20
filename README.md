@@ -64,6 +64,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1331-rank-transform-of-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/venkat842/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/venkat842/leetcode_solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1672-richest-customer-wealth](https://github.com/venkat842/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/venkat842/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -150,6 +151,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0048-rotate-image](https://github.com/venkat842/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [1672-richest-customer-wealth](https://github.com/venkat842/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
