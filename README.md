@@ -77,6 +77,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2404-most-frequent-even-element](https://github.com/venkat842/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/venkat842/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/venkat842/leetcode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/venkat842/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
 ## Dynamic Programming
@@ -150,6 +151,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0287-find-the-duplicate-number](https://github.com/venkat842/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/venkat842/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/venkat842/leetcode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Matrix
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2404-most-frequent-even-element](https://github.com/venkat842/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/venkat842/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/venkat842/leetcode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3731-find-missing-elements](https://github.com/venkat842/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
