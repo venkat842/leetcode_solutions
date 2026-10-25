@@ -6,6 +6,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/venkat842/leetcode_solutions/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/venkat842/leetcode_solutions/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/venkat842/leetcode_solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/venkat842/leetcode_solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
