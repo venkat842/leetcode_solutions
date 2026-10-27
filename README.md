@@ -70,6 +70,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/venkat842/leetcode_solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1672-richest-customer-wealth](https://github.com/venkat842/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/venkat842/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/venkat842/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/venkat842/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -213,6 +214,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1331-rank-transform-of-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/venkat842/leetcode_solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/venkat842/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/venkat842/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/venkat842/leetcode_solutions/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3731-find-missing-elements](https://github.com/venkat842/leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -281,4 +283,8 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/venkat842/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/venkat842/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
