@@ -61,6 +61,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/venkat842/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/venkat842/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/venkat842/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/venkat842/leetcode_solutions/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/venkat842/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -99,6 +100,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0326-power-of-three](https://github.com/venkat842/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/venkat842/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/venkat842/leetcode_solutions/tree/master/0367-valid-perfect-square) |
+| [0976-largest-perimeter-triangle](https://github.com/venkat842/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/venkat842/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/venkat842/leetcode_solutions/tree/master/1185-day-of-the-week) |
 | [1360-number-of-days-between-two-dates](https://github.com/venkat842/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
@@ -209,6 +211,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0561-array-partition](https://github.com/venkat842/leetcode_solutions/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/venkat842/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/venkat842/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/venkat842/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/venkat842/leetcode_solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -232,6 +235,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/venkat842/leetcode_solutions/tree/master/0561-array-partition) |
+| [0976-largest-perimeter-triangle](https://github.com/venkat842/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Counting Sort
 |  |
 | ------- |
@@ -287,4 +291,12 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/venkat842/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/venkat842/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/venkat842/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
