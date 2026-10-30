@@ -88,6 +88,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat842/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/venkat842/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0326-power-of-three](https://github.com/venkat842/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/venkat842/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/venkat842/leetcode_solutions/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/venkat842/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/venkat842/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/venkat842/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/venkat842/leetcode_solutions/tree/master/1185-day-of-the-week) |
@@ -264,6 +266,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0231-power-of-two](https://github.com/venkat842/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/venkat842/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/venkat842/leetcode_solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/venkat842/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -300,4 +303,8 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/venkat842/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/venkat842/leetcode_solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
