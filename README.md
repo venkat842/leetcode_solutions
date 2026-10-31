@@ -67,6 +67,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1207-unique-number-of-occurrences](https://github.com/venkat842/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/venkat842/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/venkat842/leetcode_solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1672-richest-customer-wealth](https://github.com/venkat842/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
@@ -219,6 +220,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1051-height-checker](https://github.com/venkat842/leetcode_solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/venkat842/leetcode_solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/venkat842/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/venkat842/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -248,6 +250,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/venkat842/leetcode_solutions/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bubble Sort
 |  |
 | ------- |
