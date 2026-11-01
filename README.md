@@ -103,6 +103,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0342-power-of-four](https://github.com/venkat842/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/venkat842/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/venkat842/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/venkat842/leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/venkat842/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/venkat842/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/venkat842/leetcode_solutions/tree/master/1185-day-of-the-week) |
