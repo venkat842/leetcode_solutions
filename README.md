@@ -110,6 +110,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1360-number-of-days-between-two-dates](https://github.com/venkat842/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [2119-a-number-after-a-double-reversal](https://github.com/venkat842/leetcode_solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/venkat842/leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3270-find-the-key-of-the-numbers](https://github.com/venkat842/leetcode_solutions/tree/master/3270-find-the-key-of-the-numbers) |
 ## Binary Search
 |  |
