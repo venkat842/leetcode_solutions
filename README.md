@@ -95,6 +95,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | ------- |
 | [0007-reverse-integer](https://github.com/venkat842/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/venkat842/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/venkat842/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/venkat842/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/venkat842/leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/venkat842/leetcode_solutions/tree/master/0263-ugly-number) |
@@ -142,6 +143,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/venkat842/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/venkat842/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/venkat842/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/venkat842/leetcode_solutions/tree/master/0344-reverse-string) |
@@ -187,6 +189,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/venkat842/leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/venkat842/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -287,6 +290,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/venkat842/leetcode_solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/venkat842/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Binary Indexed Tree
 |  |
