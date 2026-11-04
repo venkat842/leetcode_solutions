@@ -108,6 +108,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0976-largest-perimeter-triangle](https://github.com/venkat842/leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/venkat842/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/venkat842/leetcode_solutions/tree/master/1185-day-of-the-week) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/venkat842/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1360-number-of-days-between-two-dates](https://github.com/venkat842/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [2119-a-number-after-a-double-reversal](https://github.com/venkat842/leetcode_solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
