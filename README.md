@@ -119,6 +119,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2520-count-the-digits-that-divide-a-number](https://github.com/venkat842/leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/venkat842/leetcode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/venkat842/leetcode_solutions/tree/master/3270-find-the-key-of-the-numbers) |
+| [3945-digit-frequency-score](https://github.com/venkat842/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/venkat842/leetcode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3731-find-missing-elements](https://github.com/venkat842/leetcode_solutions/tree/master/3731-find-missing-elements) |
+| [3945-digit-frequency-score](https://github.com/venkat842/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
