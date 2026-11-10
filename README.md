@@ -71,6 +71,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/venkat842/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/venkat842/leetcode_solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1528-shuffle-string](https://github.com/venkat842/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/venkat842/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/venkat842/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/venkat842/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -142,6 +143,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1154-day-of-the-year](https://github.com/venkat842/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/venkat842/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1507-reformat-date](https://github.com/venkat842/leetcode_solutions/tree/master/1507-reformat-date) |
+| [1528-shuffle-string](https://github.com/venkat842/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3110-score-of-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/3110-score-of-a-string) |
