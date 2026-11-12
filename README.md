@@ -138,6 +138,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0020-valid-parentheses](https://github.com/venkat842/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/venkat842/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/venkat842/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/venkat842/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/venkat842/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/venkat842/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -206,6 +207,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0268-missing-number](https://github.com/venkat842/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/venkat842/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/venkat842/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/venkat842/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -248,6 +250,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/venkat842/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/venkat842/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/venkat842/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1748-sum-of-unique-elements](https://github.com/venkat842/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
