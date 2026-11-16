@@ -58,6 +58,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0500-keyboard-row](https://github.com/venkat842/leetcode_solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/venkat842/leetcode_solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/venkat842/leetcode_solutions/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/venkat842/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/venkat842/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
@@ -196,6 +197,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/venkat842/leetcode_solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/venkat842/leetcode_solutions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/venkat842/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/venkat842/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
@@ -290,6 +292,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/venkat842/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/venkat842/leetcode_solutions/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
