@@ -117,6 +117,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/venkat842/leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/venkat842/leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1360-number-of-days-between-two-dates](https://github.com/venkat842/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/venkat842/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/venkat842/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/venkat842/leetcode_solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/venkat842/leetcode_solutions/tree/master/2235-add-two-integers) |
@@ -151,6 +152,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1360-number-of-days-between-two-dates](https://github.com/venkat842/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1507-reformat-date](https://github.com/venkat842/leetcode_solutions/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/venkat842/leetcode_solutions/tree/master/1528-shuffle-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/venkat842/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/venkat842/leetcode_solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
