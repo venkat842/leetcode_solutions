@@ -126,6 +126,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2520-count-the-digits-that-divide-a-number](https://github.com/venkat842/leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/venkat842/leetcode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/venkat842/leetcode_solutions/tree/master/3270-find-the-key-of-the-numbers) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/venkat842/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3945-digit-frequency-score](https://github.com/venkat842/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -157,6 +158,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/venkat842/leetcode_solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3110-score-of-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/3110-score-of-a-string) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/venkat842/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
 ## Two Pointers
