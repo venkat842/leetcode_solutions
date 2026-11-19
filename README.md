@@ -153,6 +153,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1360-number-of-days-between-two-dates](https://github.com/venkat842/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1507-reformat-date](https://github.com/venkat842/leetcode_solutions/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/venkat842/leetcode_solutions/tree/master/1528-shuffle-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/venkat842/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/venkat842/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -266,6 +267,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0383-ransom-note](https://github.com/venkat842/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/venkat842/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/venkat842/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/venkat842/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/venkat842/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
