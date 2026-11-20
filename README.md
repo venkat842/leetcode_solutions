@@ -75,6 +75,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/venkat842/leetcode_solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/venkat842/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/venkat842/leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/venkat842/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/venkat842/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/venkat842/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/venkat842/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -153,6 +154,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1360-number-of-days-between-two-dates](https://github.com/venkat842/leetcode_solutions/tree/master/1360-number-of-days-between-two-dates) |
 | [1507-reformat-date](https://github.com/venkat842/leetcode_solutions/tree/master/1507-reformat-date) |
 | [1528-shuffle-string](https://github.com/venkat842/leetcode_solutions/tree/master/1528-shuffle-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/venkat842/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/venkat842/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/venkat842/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -188,6 +190,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0287-find-the-duplicate-number](https://github.com/venkat842/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/venkat842/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/venkat842/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/venkat842/leetcode_solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/venkat842/leetcode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Matrix
@@ -227,6 +230,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/venkat842/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/venkat842/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/venkat842/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/venkat842/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -267,6 +271,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0383-ransom-note](https://github.com/venkat842/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/venkat842/leetcode_solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/venkat842/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/venkat842/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/venkat842/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/venkat842/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
