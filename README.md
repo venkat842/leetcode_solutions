@@ -87,6 +87,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2215-find-the-difference-of-two-arrays](https://github.com/venkat842/leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/venkat842/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2506-count-pairs-of-similar-strings](https://github.com/venkat842/leetcode_solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/venkat842/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/venkat842/leetcode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/venkat842/leetcode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -160,6 +161,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/venkat842/leetcode_solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2506-count-pairs-of-similar-strings](https://github.com/venkat842/leetcode_solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [3110-score-of-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/3110-score-of-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/venkat842/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -191,6 +193,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0342-power-of-four](https://github.com/venkat842/leetcode_solutions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/venkat842/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2506-count-pairs-of-similar-strings](https://github.com/venkat842/leetcode_solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/venkat842/leetcode_solutions/tree/master/2595-number-of-even-and-odd-bits) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/venkat842/leetcode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Matrix
@@ -238,6 +241,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2287-rearrange-characters-to-make-target-string](https://github.com/venkat842/leetcode_solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/venkat842/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2506-count-pairs-of-similar-strings](https://github.com/venkat842/leetcode_solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/venkat842/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/venkat842/leetcode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -279,6 +283,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2287-rearrange-characters-to-make-target-string](https://github.com/venkat842/leetcode_solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/venkat842/leetcode_solutions/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2506-count-pairs-of-similar-strings](https://github.com/venkat842/leetcode_solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Greedy
 |  |
