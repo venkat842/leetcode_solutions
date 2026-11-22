@@ -165,6 +165,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [3110-score-of-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/3110-score-of-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/venkat842/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
 ## Two Pointers
 |  |
@@ -211,6 +212,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0682-baseball-game](https://github.com/venkat842/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/venkat842/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
 ## Number Theory
 |  |
