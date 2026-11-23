@@ -79,6 +79,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1748-sum-of-unique-elements](https://github.com/venkat842/leetcode_solutions/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/venkat842/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/venkat842/leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/venkat842/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -158,6 +159,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [1684-count-the-number-of-consistent-strings](https://github.com/venkat842/leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/venkat842/leetcode_solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/venkat842/leetcode_solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/venkat842/leetcode_solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/venkat842/leetcode_solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/venkat842/leetcode_solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -211,6 +213,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [0258-add-digits](https://github.com/venkat842/leetcode_solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/venkat842/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/venkat842/leetcode_solutions/tree/master/0832-flipping-an-image) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/venkat842/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
