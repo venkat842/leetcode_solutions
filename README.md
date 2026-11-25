@@ -94,6 +94,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/venkat842/leetcode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/venkat842/leetcode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3731-find-missing-elements](https://github.com/venkat842/leetcode_solutions/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/venkat842/leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
 ## Dynamic Programming
 |  |
@@ -170,6 +171,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/venkat842/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/venkat842/leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
 ## Two Pointers
 |  |
@@ -218,6 +220,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/venkat842/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/venkat842/leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
 ## Number Theory
 |  |
