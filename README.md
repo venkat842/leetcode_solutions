@@ -173,6 +173,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/venkat842/leetcode_solutions/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/venkat842/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/venkat842/leetcode_solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3838-weighted-word-mapping](https://github.com/venkat842/leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/venkat842/leetcode_solutions/tree/master/3921-score-validator) |
 ## Two Pointers
@@ -258,6 +259,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/venkat842/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/venkat842/leetcode_solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/venkat842/leetcode_solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/venkat842/leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/venkat842/leetcode_solutions/tree/master/3945-digit-frequency-score) |
 ## Sorting
@@ -298,6 +300,7 @@ Welcome to my repository dedicated to tracking my LeetCode problem-solving journ
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/venkat842/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/venkat842/leetcode_solutions/tree/master/2506-count-pairs-of-similar-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/venkat842/leetcode_solutions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/venkat842/leetcode_solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
